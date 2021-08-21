@@ -1,1 +1,1 @@
-web: gunicorn djangoresume/djangoresume.wsgi
+web: gunicorn djangoresume.wsgi
